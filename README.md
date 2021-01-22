@@ -3,7 +3,8 @@
 <br>
 
 ### 01. basic
-- 기본 문법
+- 기본 문법  
+- [R-01 notebook in github.io](https://nahyeon-an.github.io/R-study/basic.nb.html)
 
 <br>
 

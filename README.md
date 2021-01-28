@@ -19,3 +19,6 @@
 - 웹에서 데이터 가져오기
 
 <br>
+
+### 04. utility functions
+- [R-04 notebook in github.io](https://nahyeon-an.github.io/R-study/utility-function.nb.html)

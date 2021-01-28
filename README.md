@@ -21,4 +21,5 @@
 <br>
 
 ### 04. utility functions
+- 문자열 처리, 집계 함수 
 - [R-04 notebook in github.io](https://nahyeon-an.github.io/R-study/utility-function.nb.html)
